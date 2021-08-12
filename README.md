@@ -15,3 +15,6 @@ Extend the Snake When Detect Collisions with Food <br />
 
 Detect Collisions with the Snake's Tail <br />
 ![alt-text ](tail-collisions.gif)
+
+Keep high score in the game <br />
+![alt-text ](high-score.gif)
